@@ -1019,7 +1019,6 @@ def grab():
     print '║-> \x1b[1;37;40m5. Get Friends Email From Friends'
     print '║-> \x1b[1;37;40m6. Get Phone From Friends'
     print '║-> \x1b[1;37;40m7. Get Friend\'s Phone From Friends'
-    print '║-> \x1b[1;37;40m8. Get Auto Hack YOUTUBE ID
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     grab_pilih()
