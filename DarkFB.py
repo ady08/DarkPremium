@@ -35,6 +35,7 @@ def jalan(z):
 
 def banner():
     os.system('clear')
+
     print " 
     runntxt(WW+'   __________                __ ')         
     runntxt(GL+'   \______   \_______ __ ___/  |_  ____  ')
