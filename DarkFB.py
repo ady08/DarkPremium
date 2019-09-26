@@ -330,7 +330,7 @@ def menu_hack():
     print '║-> \x1b[1;37;40m4. BruteForce (\x1b[1;92mTarget\x1b[1;97m)'
     print '║-> \x1b[1;37;40m5. Yahoo Clone'
     print '║-> \x1b[1;37;40m6. Ambil ID/Email/HP'
-    print '║-> \x1b[1;31;40m0. 
+    print '║-> \x1b[1;31;40m0. Logout
     print '\x1b[1;37;40m║'
     hack_pilih()
 
