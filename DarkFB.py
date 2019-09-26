@@ -35,6 +35,8 @@ def jalan(z):
 
 def banner():
     os.system('clear')
+    print " "
+    runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+'   __________                __ ')         
     runntxt(GL+'   \______   \_______ __ ___/  |_  ____  ')
     runntxt(GG+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
@@ -47,17 +49,19 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: NICOLEUS AJAH!!             |"
-    print GL+"  |       Ngocok Dulu Sebelum Menggunakan       |"
-    print WW+"  |            FACEBOOK: nicoleus            |"
-    print Y+"  |             YOUTUBE: Ady sitorus ady|"
+    print WW+"  |            MOD BY: IQBALZ NOOBS             |"
+    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
+    print WW+"  |            FACEBOOK: Iqbalznoobs            |"
+    print Y+"  |             INSTAGRAM: IQBALZ5              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
     print GG+"  √=============================================√"
+
 banner()
+
 logo = " \x1b[1;92m█████████\n \x1b[1;92m█▄█████▄█         \x1b[1;97m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[1;92m█ \x1b[1;93m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[1;92m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;92m█ \x1b[1;93m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[1;93mPremium\n \x1b[1;92m█████████         \x1b[1;97m«==========✧==========»\n \x1b[1;92m ██ ██\n \x1b[1;97m╔════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mReCode   \x1b[1;91m:  \x1b[1;96m The Horas  \x1b[1;97m                   ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub   \x1b[1;91m:  \x1b[1;92m \x1b[92mhttps://github.com/TheHoras\x1b[    \x1b[1;97m ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mFB       \x1b[1;91m:   \x1b[1;92\x1b[92mhttps://fb.me/rizz.Horas\x1b[     \x1b[1;97m   ║   \n \x1b[1;97m╚════════════════════════════════════════════════╝"  '\n\x1b[1;92m[*] Silahkan Login Operamini Bang Agar Tidak Checkpoint\n'
 
 def tik():
