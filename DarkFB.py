@@ -850,7 +850,6 @@ def menu_yahoo():
     print 52 * '\x1b[1;97m\xe2\x95\x90'
     print '║-> \x1b[1;37;40m1. From Friends'
     print '║-> \x1b[1;37;40m2. From File'
-    print '║-> \x1b[1;37;40m3. From Yt
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     yahoo_pilih()
