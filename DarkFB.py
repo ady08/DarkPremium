@@ -1475,7 +1475,6 @@ def menu_bot():
     print '║-> \x1b[1;37;40m5. Mass Delete Post'
     print '║-> \x1b[1;37;40m6. Accept Friend Requests'
     print '║-> \x1b[1;37;40m7. Unfriends'
-    print '║-> \x1b[1;37;40m8. Auto Ngocok
     print '║-> \x1b[1;31;40m0. Back'
     print '\x1b[1;37;40m║'
     bot_pilih()
